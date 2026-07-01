@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0611/cc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 敦博本六祖壇經校訂全文
+  edition:
+    short: cc
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/CC/CC002/CC002n0002.xml
+    old_id: CC002n0002
+hash: sha256:153678681b8af108075272f0e7e07e48752734686f715d3f59e38d70c08b6268
